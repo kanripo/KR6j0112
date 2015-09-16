@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說帝釋巖祕密成就儀軌
+#+DATE: 2015-08-30 20:26:06.487784
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6j0112
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+焉
