@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:26:06.298438
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:18
 #+TITLE: 佛說帝釋巖祕密成就儀軌
 #+PROPERTY: CBETA_ID T19n0940
 #+PROPERTY: ID KR6j0112
